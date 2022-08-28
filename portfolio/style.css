@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+* {
+  font-family: "PT Serif", serif;
+}
+
+.introduction img {
+  width: 200px;
+  height: 200px;
+}
+
+section {
+  margin: 7rem 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.mw-650 {
+  max-width: 650px;
+}
+
+
+.size-30 {
+  width: 100%;
+  height: 90%;
+}
+
+.project-list h2 span {
+  background: linear-gradient(white 60%, rgb(229, 229, 229) 40%);
+}
